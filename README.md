@@ -1,3 +1,3 @@
 Preview of the project :
 
-<a href="https://gyazo.com/c6602eb4869c96e39a140dd4f1777b40"><img src="https://i.gyazo.com/c6602eb4869c96e39a140dd4f1777b40.gif" alt="Image from Gyazo" width="960"/></a>
+<a href="https://gyazo.com/4302b328384515b9ea1869992f714f52"><img src="https://i.gyazo.com/4302b328384515b9ea1869992f714f52.gif" alt="Image from Gyazo" width="960"/></a>
