@@ -1,13 +1,13 @@
 Preview of the project :
 
-<a href="//imgur.com/a/GI5nVwZ"></a>
+[Imgur](https://i.imgur.com/zxATJ3J.jpg)
 
-<a href="//imgur.com/HByEqUX">View post on imgur.com</a>
+[Imgur](https://i.imgur.com/ieFjuTt.jpg)
 
-<a href="//imgur.com/tqF9xBx">View post on imgur.com</a>
+[Imgur](https://i.imgur.com/HByEqUX.jpg)
 
-<a href="//imgur.com/UY5Wlen">View post on imgur.com</a>
+[Imgur](https://i.imgur.com/UY5Wlen.jpg)
 
-<a href="//imgur.com/L66nNAt">View post on imgur.com</a>
+[Imgur](https://i.imgur.com/NgQpaoO.png)
 
-<a href="//imgur.com/NgQpaoO">View post on imgur.com</a>
+[Imgur](https://i.imgur.com/L66nNAt.png)
