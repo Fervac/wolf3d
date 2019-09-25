@@ -1,4 +1,4 @@
-Preview of the project :
+Preview:
 
 ![Imgur](https://i.imgur.com/zxATJ3J.jpg)
 
